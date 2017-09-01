@@ -3,7 +3,7 @@ layout:     post
 title:      "游戏人工智能简介"
 subtitle:   "游戏人工智能基本概念和组成"
 date:       2017-09-01 20:00:00
-author:     "Hux"
+author:     "Iteevo"
 header-img: "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask: 0.3
 catalog:    true
@@ -12,7 +12,7 @@ tags:
     - C#
 ---
 
-> 本文首发于 [Iteevo Blog](http://geek.csdn.net/news/detail/210535) 转载请保留链接。
+> 本文首发于 [Iteevo Blog](http://iteevo.com/2017/09/01/introduction-to-gameAI/) 转载请保留链接。
 
 ## What is game AI？
 
