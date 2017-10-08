@@ -15,8 +15,8 @@ tags:
 > 本文首发于 [Iteevo Blog](http://iteevo.com/2017/09/08/Movement-in-GameAI) 转载请保留链接。
 
 角色的运动是AI最基本的需求，运动算法需要解决角色下一步的位置和朝向。
-## Seek,Align,velocity 是移动算法最基本的三种组成形式？
-### 1.Seek行为将当前角色的位置匹配到目标点。
+# Seek,Align,velocity 是移动算法最基本的三种组成形式？
+## 1.Seek行为将当前角色的位置匹配到目标点。
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -32,7 +32,7 @@ public class Seek : MonoBehaviour {
 }
 ```
 
-### 2.Align行为将角色的朝向和目标方向一致。
+## 2.Align行为将角色的朝向和目标方向一致。
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -52,7 +52,7 @@ public class Align : MonoBehaviour {
 	}
 }
 ```
-### 3.velocity行为将角色的运动匹配到目标速度，可以在接近目标速度的时候减速
+## 3.velocity行为将角色的运动匹配到目标速度，可以在接近目标速度的时候减速
 ```
 using System.Collections;
 using System.Collections.Generic;
