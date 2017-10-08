@@ -11,9 +11,8 @@ tags:
     - game AI
     - C#
 ---
-<br><br>
 
-> 本文首发于 [Iteevo Blog](http://iteevo.com/2017/09/01/introduction-to-gameAI/) 转载请保留链接。
+> 本文首发于 [Iteevo Blog](http://iteevo.com/2017/09/01/introduction-to-gameAI) 转载请保留链接。
 
 ## What is game AI？
 

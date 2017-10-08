@@ -12,7 +12,7 @@ tags:
     - C#
 ---
 <br><br>
-> 本文首发于 [Iteevo Blog](http://iteevo.com/2017/09/08/Movement-in-GameAI/) 转载请保留链接。
+> 本文首发于 [Iteevo Blog](http://iteevo.com/2017/09/08/Movement-in-GameAI) 转载请保留链接。
 
 角色的运动是AI最基本的需求，运动算法需要解决角色下一步的位置和朝向。
 ## Seek,Align,velocity 是移动算法最基本的三种组成形式？
