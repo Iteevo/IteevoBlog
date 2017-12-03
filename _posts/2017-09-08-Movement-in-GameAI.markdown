@@ -4,7 +4,7 @@ title:      "GameAI中的角色移动"
 subtitle:   "移动的基本组成和运用"
 date:       2017-09-08 20:00:00
 author:     "Iteevo"
-header-img: "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-img: "img/in-post/Movement/2017.09.08.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
