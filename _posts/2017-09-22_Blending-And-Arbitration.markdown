@@ -12,7 +12,7 @@ tags:
     - C#
 ---
 
-> 本文首发于 [Iteevo Blog](http://iteevo.com/2017/09/23/Blending_And_Arbitration) 转载请保留链接。
+> 本文首发于 [Iteevo Blog](http://iteevo.com/2017/09/23/Blending-And-Arbitration) 转载请保留链接。
 
 #SteerBehavior混合和仲裁
 
