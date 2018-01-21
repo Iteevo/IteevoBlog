@@ -14,7 +14,7 @@ tags:
 
 > 本文首发于 [Iteevo Blog](http://iteevo.com/2017/09/23/Blending-And-Arbitration) 转载请保留链接。
 
-#SteerBehavior混合和仲裁
+# SteerBehavior混合和仲裁
 
 
 通过组合基本steerBehavor行为，我们可以实现更加复杂的运动。通常有两种组合方式：混合和仲裁。
