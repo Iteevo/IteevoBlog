@@ -4,7 +4,7 @@ title:      "游戏人工智能简介"
 subtitle:   "游戏人工智能基本概念和组成"
 date:       2017-09-01 20:00:00
 author:     "Iteevo"
-header-img: "img/in-post/post-Introduction_to_game_AI/2017_09_01.jpg"
+header-img: "img/in-post/Introduction_to_game_AI/2017_09_01.jpg"
 header-mask: 0.3
 catalog:    true
 tags:

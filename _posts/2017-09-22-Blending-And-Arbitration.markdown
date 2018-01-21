@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "游戏角色移动"
+title:      "组合游戏角色移动"
 subtitle:   "Steer Behavior混合和仲裁"
-date:       2017-09-23 20:00:00
+date:       2017-09-22 20:00:00
 author:     "Iteevo"
 header-img: "img/in-post/BlendingAndArbitration/2017_09_22.jpg"
 header-mask: 0.3
@@ -11,7 +11,7 @@ tags:
     - game AI
     - C#
 ---
-
+<br><br>
 > 本文首发于 [Iteevo Blog](http://iteevo.com/2017/09/23/Blending-And-Arbitration) 转载请保留链接。
 通过组合基本steerBehavor行为，我们可以实现更加复杂的运动。通常有两种组合方式：混合和仲裁。
 # Weighted Blending
